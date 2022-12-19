@@ -1,3 +1,5 @@
+about:newtab
+
 ## CSS
 
 ```css
